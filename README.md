@@ -1,1 +1,3 @@
 # Simple Temperature Converter
+
+A simple web application that converts temperature from Celsius to Fahrenheit and vise versa.
