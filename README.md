@@ -10,6 +10,7 @@ A simple web application that converts temperature from Celsius to Fahrenheit an
 
 ## Technologies Used
 
-- HTML5
+- HTML
 - CSS
 - JavaScript
+
