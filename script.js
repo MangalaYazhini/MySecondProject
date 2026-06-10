@@ -4,3 +4,14 @@ function convertCelsius(){
 
   document.getElementById("result").innerText = celsius + "°C" + " = " + fahrenheit + "℉" ; 
 }
+
+
+function convertFahrenheit(){
+  let fahrenheit = document.getElementById("fahrenheit").value;
+  let celsius = (fahrenheit - 32) * 5/9;
+
+  document.getElementById("result").innerText = `${fahrenheit} °F = ${celsius} °C` ; 
+}
+
+
+
